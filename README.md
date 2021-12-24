@@ -1,6 +1,6 @@
 # convert-to-roman-numeral
 
-Pass in any number >= 0 when calling the function and the number will be converted into a Roman Numeral.
+Pass in any number > 0 when calling the function and the number will be converted into a Roman Numeral.
 
 Numbers >= 4000 will not display specific characters above typical Roman Numerals (I, V, X, L, C, D, M).
 
